@@ -5,4 +5,4 @@ New File Added as a test from Visual Studio Code
 3. Saved updated file
 4. Added file to Stage Changes
 5. Commited Stage Changes (Checkmark)
-6. Push local changes to Github / Pull remote changes from Github
+6. Sync Changes (Push local changes to Github / Pull remote changes from Github)
